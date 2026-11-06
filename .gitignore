@@ -1,0 +1,6 @@
+diabetic_data.csv
+dataset-description.pdf
+*.png
+.ipynb_checkpoints/
+__pycache__/
+.venv/
