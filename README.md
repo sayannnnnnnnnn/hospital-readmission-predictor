@@ -3,7 +3,7 @@
 An interactive web app that ranks diabetic patients by their risk of being readmitted
 within 30 days of discharge, so a care team can focus follow-up on the highest-risk group.
 
-**Live app:** [diabetic-readmission-risk-sayan.streamlit.app](https://diabetic-readmission-risk-sayan.streamlit.app/) (the first load may take about a minute while the app wakes up)
+**Live app:** [diabetic-readmission-risk-sayan.streamlit.app](https://diabetic-readmission-risk-sayan.streamlit.app/) 
 
 ## Results
 
